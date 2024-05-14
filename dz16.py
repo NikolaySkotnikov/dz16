@@ -102,4 +102,6 @@ class Person:
 
 
 person1 = Person("John")
+person2 = Person("Lewis")
 print(person1.get_prefixed_name())
+print(person2.get_prefixed_name())
