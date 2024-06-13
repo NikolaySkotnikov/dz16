@@ -174,7 +174,7 @@ class Prototype(ABC):
 
 
 class Person(Prototype):
-    def __init__(self, name, address):
+    def __init__(self, name: str, address: object):
         self.name = name
         self.address = copy.deepcopy(address)
 
@@ -188,7 +188,7 @@ class Person(Prototype):
 
 
 class Address:
-    def __init__(self, number, street, country):
+    def __init__(self, number: int, street: str, country: str):
         self.number = number
         self. street = street
         self.country = country
