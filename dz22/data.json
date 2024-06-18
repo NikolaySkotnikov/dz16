@@ -1,0 +1,42 @@
+{
+  "shoes1": {
+    "type_shoes": "\u041c\u0443\u0436\u0441\u043a\u0430\u044f",
+    "view_shoes": "\u041a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438",
+    "color": "\u0421\u0438\u043d\u0438\u0439",
+    "price": "1500",
+    "manufacturer": "\u041a\u0438\u0442\u0430\u0439",
+    "size": "43"
+  },
+  "shoes2": {
+    "type_shoes": "\u0416\u0435\u043d\u0441\u043a\u0430\u044f",
+    "view_shoes": "\u0422\u0443\u0444\u043b\u0438",
+    "color": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439",
+    "price": "5000",
+    "manufacturer": "\u0418\u0442\u0430\u043b\u0438\u044f",
+    "size": "37"
+  },
+  "shoes3": {
+    "type_shoes": "\u041c\u0443\u0436\u0441\u043a\u0430\u044f",
+    "view_shoes": "\u0421\u0430\u043f\u043e\u0433\u0438",
+    "color": "\u0416\u0435\u043b\u0442\u044b\u0439",
+    "price": "800",
+    "manufacturer": "\u041a\u0438\u0442\u0430\u0439",
+    "size": "40"
+  },
+  "shoes4": {
+    "type_shoes": "\u0416\u0435\u043d\u0441\u043a\u0430\u044f",
+    "view_shoes": "\u0421\u0430\u043d\u0434\u0430\u043b\u0438",
+    "color": "\u0411\u0435\u043b\u044b\u0439",
+    "price": "3000",
+    "manufacturer": "\u0421\u0428\u0410",
+    "size": "36"
+  },
+  "shoes5": {
+    "type_shoes": "\u041c\u0443\u0436\u0441\u043a\u0438\u0435",
+    "view_shoes": "\u041a\u0440\u043e\u0441\u0441\u043e\u0430\u043a\u0438",
+    "color": "\u041e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439",
+    "price": "3500",
+    "manufacturer": "\u041a\u0438\u0442\u0430\u0439",
+    "size": "44"
+  }
+}
